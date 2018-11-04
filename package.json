@@ -1,5 +1,5 @@
 {
-  "name": "react-native-loading-hoc",
+  "name": "rn-loading-hoc",
   "version": "0.0.1",
   "description": "Loading HOC for React.",
   "main": "build/index.js",
